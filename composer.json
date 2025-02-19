@@ -1,0 +1,5 @@
+{
+    "require": {
+        "intervention/validation": "^4.5"
+    }
+}
